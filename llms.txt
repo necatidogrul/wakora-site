@@ -1,0 +1,31 @@
+# Wakora
+
+> Wakora is an iPhone alarm clock that cannot be silenced with a single tap. To dismiss the alarm
+> you must complete a wake-up mission — solve arithmetic, shake the phone a set number of times,
+> walk steps, do push-ups, match a photo, or scan a barcode left in another room. Free to
+> download with an optional Premium subscription. Published as "WakeGuard" until August 2026.
+
+Built by Necati Dogrul, an independent iOS developer. iOS 16.0 or later, 10 store languages.
+20 wake-up missions, 8 of which require physically leaving the bed. Premium is offered weekly,
+monthly or yearly; the yearly plan begins with a 7-day free trial.
+
+## Docs
+
+- [Home — what Wakora is and how it works](https://wakora.app/index.html.md): overview, feature
+  list, pricing and the eight most common questions, in full.
+- [Wakora vs Alarmy](https://wakora.app/vs-alarmy.html.md): side-by-side comparison of the two
+  mission alarm apps, written by Wakora's developer and explicit about where Alarmy is better.
+- [Support and troubleshooting](https://wakora.app/support.html.md): why an alarm might not ring,
+  background/notification requirements, subscription management.
+
+## Legal
+
+- [Privacy policy](https://wakora.app/privacy.html.md): what data stays on the device and what
+  leaves it.
+- [Terms of use](https://wakora.app/terms.html.md): licence, subscription and renewal terms.
+
+## Links
+
+- Website: https://wakora.app/
+- App Store: https://apps.apple.com/app/id6761144895
+- Developer: https://necatidogrul.dev
