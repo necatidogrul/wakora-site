@@ -15,7 +15,7 @@ that is stricter by default.
 |---|---|---|
 | App Store ratings (US) | Newly renamed, small rating base | ~241,000 |
 | Yearly subscription (US) | $39.99 | $59.99–$69.99 |
-| Free trial | 7 days on the yearly plan | Varies by offer |
+| Free trial | 3 days on the weekly plan | Varies by offer |
 | Free tier | Narrower — math, shake, steps | Wider — several missions, sleep tracking, sounds |
 | Missions | 20, of which 8 require leaving the bed | Comparable range, plus photo and squat modes |
 | Snooze model | Escalating penalty with a daily cap | Configurable limits |

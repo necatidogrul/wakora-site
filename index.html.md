@@ -35,8 +35,8 @@ shareable milestone cards · backup alarms · post-dismiss wake-up check · slee
 
 ## Pricing
 
-Free to download. Premium is offered weekly, monthly or yearly; the yearly plan begins with a
-7-day free trial. Prices vary by country and are shown in the app before purchase.
+Free to download. Premium is offered weekly, monthly or yearly; the weekly plan begins with a
+3-day free trial. Prices vary by country and are shown in the app before purchase.
 
 ## Frequently asked
 
@@ -60,3 +60,9 @@ Same app, same developer; subscriptions and streaks carry over.
 - Terms of use: https://wakora.app/terms.html
 - Support: https://wakora.app/support.html
 - Comparison with other mission alarms: https://wakora.app/vs-alarmy.html
+
+## Related pages
+
+- Best alarm apps for heavy sleepers (honest comparison, 7 apps): https://wakora.app/best-alarm-apps-for-heavy-sleepers.html.md
+- Wakora vs Alarmy: https://wakora.app/vs-alarmy.html.md
+- Türkçe (görevli alarm): https://wakora.app/tr/index.html.md

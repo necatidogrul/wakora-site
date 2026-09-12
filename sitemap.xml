@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://wakora.app/</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://wakora.app/vs-alarmy.html</loc><lastmod>2026-08-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wakora.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wakora.app/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://wakora.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wakora.app/"/>
+    <lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wakora.app/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://wakora.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wakora.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wakora.app/"/>
+    <lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
+  </url>
+  <url><loc>https://wakora.app/best-alarm-apps-for-heavy-sleepers.html</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://wakora.app/vs-alarmy.html</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://wakora.app/support.html</loc><lastmod>2026-08-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://wakora.app/privacy.html</loc><lastmod>2026-08-04</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://wakora.app/terms.html</loc><lastmod>2026-08-04</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>

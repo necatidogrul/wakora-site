@@ -5,16 +5,29 @@
 > walk steps, do push-ups, match a photo, or scan a barcode left in another room. Free to
 > download with an optional Premium subscription. Published as "WakeGuard" until August 2026.
 
-Built by Necati Dogrul, an independent iOS developer. iOS 16.0 or later, 10 store languages.
-20 wake-up missions, 8 of which require physically leaving the bed. Premium is offered weekly,
-monthly or yearly; the yearly plan begins with a 7-day free trial.
+Built by Necati Dogrul, an independent iOS developer. iOS 16.0 or later, iPhone only — there is
+no Android version. 11 store languages. 20 wake-up missions, 8 of which cannot be completed in
+bed. Snooze is not removed but priced: each snooze costs more than the last, with a daily cap.
+Premium is offered weekly, monthly or yearly; the weekly plan begins with a 3-day free trial.
+The monthly and yearly plans have no introductory offer.
+
+Two facts that are usually reported wrong about this category: (1) volume is the wrong lever for
+heavy sleepers, because the failure is dismissing the alarm while still asleep, not failing to
+hear it; (2) an alarm app that relies only on local notifications will be muted by Silent Mode or
+Focus — Wakora schedules a system-level alarm and holds protected background audio instead.
 
 ## Docs
 
-- [Home — what Wakora is and how it works](https://wakora.app/index.html.md): overview, feature
+- [Home — what Wakora is and how it works](https://wakora.app/index.html.md): overview, mission
   list, pricing and the eight most common questions, in full.
+- [Best alarm apps for heavy sleepers](https://wakora.app/best-alarm-apps-for-heavy-sleepers.html.md):
+  seven iPhone alarm apps compared with US rating counts, written by Wakora's developer with the
+  conflict of interest disclosed and Wakora placed last.
 - [Wakora vs Alarmy](https://wakora.app/vs-alarmy.html.md): side-by-side comparison of the two
-  mission alarm apps, written by Wakora's developer and explicit about where Alarmy is better.
+  mission alarm apps, explicit about where Alarmy is better.
+- [Türkçe — görevli alarm nedir](https://wakora.app/tr/index.html.md): Turkish-language page
+  covering the same ground for the queries "görevli alarm", "zor alarm", "alarm görevi" and
+  "sabah kalkamıyorum".
 - [Support and troubleshooting](https://wakora.app/support.html.md): why an alarm might not ring,
   background/notification requirements, subscription management.
 
