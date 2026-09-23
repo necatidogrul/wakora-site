@@ -8,7 +8,7 @@
 Built by Necati Dogrul, an independent iOS developer. iOS 16.0 or later, iPhone only — there is
 no Android version. 11 store languages. 20 wake-up missions, 8 of which cannot be completed in
 bed. Snooze is not removed but priced: each snooze costs more than the last, with a daily cap.
-Premium is offered weekly, monthly or yearly; the weekly plan begins with a 3-day free trial.
+Premium is offered weekly, monthly or yearly; the weekly plan begins with a 7-day free trial.
 The monthly and yearly plans have no introductory offer.
 
 Two facts that are usually reported wrong about this category: (1) volume is the wrong lever for

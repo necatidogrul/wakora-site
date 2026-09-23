@@ -9,7 +9,7 @@
 - App Store: https://apps.apple.com/app/id6761144895
 - Platform: iOS 16.0 or later · 10 store languages
 - Developer: Necati Dogrul — https://necatidogrul.dev
-- Last updated: 4 August 2026
+- Last updated: 24 September 2026
 
 ## In numbers
 
@@ -36,7 +36,7 @@ shareable milestone cards · backup alarms · post-dismiss wake-up check · slee
 ## Pricing
 
 Free to download. Premium is offered weekly, monthly or yearly; the weekly plan begins with a
-3-day free trial. Prices vary by country and are shown in the app before purchase.
+7-day free trial. Prices vary by country and are shown in the app before purchase.
 
 ## Frequently asked
 

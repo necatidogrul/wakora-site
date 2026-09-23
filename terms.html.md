@@ -3,7 +3,7 @@ Wakora — Terms of Use
 
 # Wakora Terms of Use
 
-Last updated: August 4, 2026
+Last updated: September 24, 2026
 
 Wakora ("the app") is developed by Necati Doğrul. By downloading or using the app you agree to these terms.
 
@@ -15,7 +15,7 @@ Wakora is licensed, not sold, to you. Your licence is governed by Apple's Licens
 ## Subscriptions
 
   Wakora Premium is offered as a weekly, monthly or yearly auto-renewing subscription.
-  - The weekly plan begins with a 3-day free trial. The trial length is shown on the App Store product page and in the app before you subscribe. If you cancel before the trial ends you are not charged.
+  - The weekly plan begins with a 7-day free trial. The trial length is shown on the App Store product page and in the app before you subscribe. If you cancel before the trial ends you are not charged.
   - Payment is charged to your Apple Account at confirmation of purchase.
   - A subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours prior to the end of the current period.
   - You can manage or cancel your subscription in Settings → Apple Account → Subscriptions after purchase.

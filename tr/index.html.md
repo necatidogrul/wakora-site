@@ -71,7 +71,7 @@ birkaç dakika sonra yedek alarm kurulur.
 
 **Ücretsiz mi?**
 Alarmın kendisi ve temel görevler ücretsiz. Premium tüm görev tiplerini, istatistikleri ve ceza
-sistemini açar. Haftalık, aylık ve yıllık plan var; haftalık plan 3 günlük ücretsiz denemeyle başlar.
+sistemini açar. Haftalık, aylık ve yıllık plan var; haftalık plan 7 günlük ücretsiz denemeyle başlar.
 Fiyatlar ülkeye göre değişir ve satın almadan önce uygulamada gösterilir.
 
 **Wakora ile WakeGuard aynı uygulama mı?**
@@ -84,4 +84,4 @@ Var ama her erteleme bir öncekinden pahalı ve günlük sınırı var.
 Yok.
 
 ---
-Son güncelleme: 12 Ağustos 2026 · sürüm 1.0.5
+Son güncelleme: 24 Eylül 2026 · sürüm 1.0.5
