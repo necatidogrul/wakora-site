@@ -2,7 +2,7 @@
 
 > Wakora is an iPhone alarm clock that cannot be silenced with a single tap. To dismiss the
 > alarm you must complete a wake-up mission: solve arithmetic, shake the phone a set number of
-> times, walk steps, do push-ups, match a photo, or scan a barcode you left in another room.
+> times, walk steps, do push-ups, match a photo, or scan a QR code you left in another room.
 > Free to download, with an optional Premium subscription. Previously published as WakeGuard;
 > renamed to Wakora in August 2026.
 
@@ -13,7 +13,7 @@
 
 ## In numbers
 
-- 20 wake-up missions, 8 of which require physically leaving the bed
+- 14 wake-up missions, 4 of them built to get you out of bed
 - 10 app languages
 - 0 ways to dismiss the alarm without completing the challenge
 - A conventional alarm is silenced in roughly one second with one tap; Wakora replaces that tap
@@ -29,7 +29,7 @@ caught rather than silently rewarded.
 
 ## Features
 
-Math challenge · shake challenge · step/walk challenge · push-up challenge · barcode scan
+Math challenge · shake challenge · step/walk challenge · push-up challenge · QR code scan
 challenge · photo match challenge · escalating snooze penalty ladder · wake-up streaks with
 shareable milestone cards · backup alarms · post-dismiss wake-up check · sleep sounds.
 

@@ -15,7 +15,7 @@ dismissal faster.
 What works is making dismissal require something you physically cannot do in bed. Ordered by how
 reliably it wakes people:
 
-1. Walking a set number of steps, or scanning a barcode left in another room
+1. Walking a set number of steps, or scanning a QR code left in another room
 2. Taking a photo of a specific place (bathroom sink is the classic)
 3. Solving arithmetic
 4. Shaking the phone
@@ -36,7 +36,7 @@ or protected background audio.
 | Mathe Alarm Clock | 8,208 · 4.5★ | Arithmetic only, tunable difficulty | You want math and nothing else |
 | SuperAlarm | 4,497 · 4.6★ | Loud + basic missions | You want something lighter than Alarmy |
 | Barcode Alarm Clock | 1,240 · 4.4★ | Barcode in another room | Barcode is the only mission you trust |
-| Wakora (author's own app) | new, few ratings | Barcode, steps, push-ups + snooze ladder | You want escalating snooze cost, not a snooze-free app |
+| Wakora (author's own app) | new, few ratings | QR code, steps, camera push-ups + snooze ladder | You want escalating snooze cost, not a snooze-free app |
 
 ## Alarmy — the default answer
 
@@ -53,7 +53,8 @@ New in 2026 · few ratings · iPhone only · freemium · https://apps.apple.com/
 **What is different:** the snooze ladder. Most mission alarms treat snooze as either free or
 forbidden. Removing snooze entirely usually backfires — people delete the app after one bad
 morning. Wakora keeps snooze but makes each one cost more than the last, with a daily cap.
-20 missions, 8 of which cannot be finished in bed. It also warns you if iOS ever interrupted
+14 missions, 4 of them built to get you out of bed; silence it without the mission and it rings
+again two minutes later. It also warns you if iOS ever interrupted
 alarm scheduling, instead of failing silently.
 
 **Where it loses:** it is new, it has almost no ratings, it is iPhone-only, and it has fewer

@@ -3,7 +3,7 @@
 > Wakora, tek dokunuşla kapatılamayan alarm uygulamasıdır. Alarmı susturmak için bir uyanma
 > görevi tamamlamanız gerekir: matematik sorusu çözmek, telefonu belirli sayıda sallamak,
 > yataktan kalkıp adım atmak, şınav çekmek, fotoğraf eşleştirmek veya başka bir odaya bırakılmış
-> barkodu okutmak. İndirmesi ücretsiz, Premium abonelik opsiyonel. Ağustos 2026'ya kadar
+> QR kodu okutmak. İndirmesi ücretsiz, Premium abonelik opsiyonel. Ağustos 2026'ya kadar
 > "WakeGuard" adıyla yayınlandı.
 
 - App Store (TR): https://apps.apple.com/tr/app/id6761144895
@@ -18,8 +18,8 @@ değildir: sesi ne kadar açarsanız açın, uyanmadan uzanıp kapatabiliyorsan�
 yapmıyor demektir. Görevli alarm sesi değil **kapatma eylemini** zorlaştırır.
 
 Wakora'da alarm çaldığında ekranda bir görev çıkar. Görev bitene kadar ses kesilmez;
-uygulamayı zorla kapatmak da işe yaramaz. **20 görevin 8'i fiziksel olarak yataktan çıkmayı
-gerektirir.**
+uygulamayı zorla kapatmak da işe yaramaz. **14 görevden 4'ü seni yataktan çıkarmak için tasarlandı;** görevi yapmadan susturursan
+2 dakika sonra yeniden çalar.
 
 Türkçe'de bu kategori şu ifadelerle aranıyor: görevli alarm, zor alarm, alarm görevi,
 matematikli alarm, uyandıran alarm, kalkamıyorum uygulaması.
@@ -32,7 +32,7 @@ matematikli alarm, uyandıran alarm, kalkamıyorum uygulaması.
 | Sallama | Telefonu belirlediğiniz sayıda sallamak gerekir |
 | Adım / yürüme | Yataktan çıkıp belirli sayıda adım atmadan ses kesilmez |
 | Şınav | Hareket sensörüyle sayılır |
-| Barkod okutma | Akşam başka odaya bırakılan barkodu sabah okutmak gerekir |
+| QR kod okutma | Akşam başka odaya bırakılan QR kodu sabah okutmak gerekir |
 | Fotoğraf eşleştirme | Önceden çekilmiş bir yerin fotoğrafını tekrar çekmek gerekir |
 
 ## Erteleme merdiveni
@@ -58,7 +58,7 @@ yerleri açıkça belirtir. Ayrıntılı sürüm: https://wakora.app/vs-alarmy.h
 
 **Sabah kalkamıyorum, hangi alarm işe yarar?**
 Sorun genelde sesi değil, alarmı bilinçsizce kapatmanızdır. Çözüm sesi artırmak değil, kapatmayı
-zorlaştırmaktır. Yataktan çıkmayı gerektiren bir görev (adım atma, başka odadaki barkodu okutma)
+zorlaştırmaktır. Yataktan çıkmayı gerektiren bir görev (adım atma, başka odadaki QR kodu okutma)
 uyanmayı fiziksel olarak zorunlu kılar.
 
 **Sessiz moddayken veya Odaklanma açıkken çalar mı?**
